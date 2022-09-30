@@ -9,7 +9,7 @@ ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jedi @ file:///tmp/build/80754af9/jedi_1592841891421/work
 Jinja2==2.11.2
-joblib==0.16.0
+joblib==1.2.0
 jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
 jupyter-core==4.6.3
 MarkupSafe==1.1.1
